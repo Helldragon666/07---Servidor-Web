@@ -1,0 +1,26 @@
+1.- HTTP/0.9: Esta fue la primera versión del protocolo HTTP, introducida por 
+Tim Berners-Lee en 1991. Era muy simple y solo permitía la transferencia de 
+datos en formato HTML.
+
+2.- HTTP/1.0: Lanzada en 1996, esta versión mejoró significativamente la 
+funcionalidad del protocolo. Introdujo la posibilidad de enviar datos en 
+formatos distintos a HTML, permitió la conexión persistente (keep-alive) y 
+la inclusión de encabezados de solicitud y respuesta.
+
+3.- HTTP/1.1: Esta versión, introducida en 1997, es ampliamente utilizada 
+en la actualidad. Mejoró la eficiencia y la velocidad mediante la 
+introducción de la persistencia de la conexión por defecto, la compresión de 
+encabezados, el soporte para pipelining (enviar múltiples solicitudes antes 
+de recibir respuestas) y otros cambios para optimizar el rendimiento
+
+4.- HTTP/2: Lanzada en 2015, HTTP/2 es una mejora significativa sobre 
+HTTP/1.1. Introduce el concepto de multiplexación, lo que permite la 
+transferencia de varios recursos en una sola conexión. También incorpora 
+compresión de encabezados, priorización de recursos y otras mejoras 
+destinadas a acelerar la carga de páginas web.
+
+5.- HTTP/3: La última versión, HTTP/3, fue diseñada para mejorar aún más el 
+rendimiento y la seguridad. Una de las diferencias clave es que HTTP/3 
+utiliza el protocolo de transporte QUIC (Quick UDP Internet Connections) en 
+lugar de TCP, lo que reduce la latencia y mejora la velocidad de carga de las 
+páginas web.

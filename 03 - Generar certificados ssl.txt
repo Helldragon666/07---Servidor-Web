@@ -1,0 +1,11 @@
+para generar certificados ssl para el desarrollo de http2 en node 
+realiza los siguentes pasos
+
+1.- revisa si funciona el comando openssl, en caso de no funcionar
+abre el programa Git Bash y ejecutalo ahi
+
+2.- navega a la ubicacion del proyecto o donde se quieren guardar 
+los certificados
+
+3.- ejecuta:
+openssl req -x509 -sha256 -nodes -days 365 -newkey rsa:2048 -keyout server.key -out server.crt

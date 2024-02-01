@@ -1,0 +1,28 @@
+Un servidor web es un software diseñado para procesar las solicitudes HTTP 
+(Protocolo de Transferencia de Hipertexto) y entregar contenido web a los 
+clientes, generalmente a través de un navegador web. Su función principal es 
+almacenar, procesar y enviar documentos, archivos y otros recursos web a los 
+usuarios que acceden a través de internet.
+
+Aquí hay algunos conceptos clave relacionados con los servidores web:
+
+1.- HTTP (Protocolo de Transferencia de Hipertexto): Es el protocolo de 
+comunicación utilizado para la transmisión de datos en la World Wide Web. 
+Los clientes, como navegadores web, envían solicitudes HTTP a los servidores, 
+y estos responden con recursos, como páginas web o archivos.
+
+2.- HTML (Lenguaje de Marcado de Hipertexto): Es el lenguaje estándar para 
+la creación y el diseño de páginas web. Los servidores web suelen entregar 
+documentos HTML a los navegadores para que los interpreten y muestren.
+
+3.- Seguridad:
+    * SSL/TLS: Los servidores web pueden implementar protocolos de seguridad 
+    como SSL (Secure Sockets Layer) o su sucesor TLS (Transport Layer Security)
+    para cifrar la comunicación entre el servidor y el cliente.
+
+    * Firewalls y Configuración Segura: Se implementan medidas de seguridad 
+    para proteger contra ataques y vulnerabilidades.
+
+4.- Proxy Inverso: Algunos servidores web, como Nginx, pueden actuar como 
+proxy inverso, gestionando las solicitudes en nombre de otros servidores o 
+aplicaciones para mejorar el rendimiento y la seguridad.
